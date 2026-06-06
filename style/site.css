@@ -105,7 +105,7 @@ a {
 
 .hero {
   position: relative;
-  min-height: 76svh;
+  min-height: 50svh;
   overflow: hidden;
   color: var(--white);
   background:
